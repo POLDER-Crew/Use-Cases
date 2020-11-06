@@ -24,3 +24,4 @@ Please use this repository to propose, discuss and approve Use Cases for impleme
    1. Select the "Create a new branch..." radio button
    1. Change the proposed name of the new branch to be (your last name)-(the issue number)-(use case short name) (e.g., duerr-1-google-dataset-search)
    1. Click the propose new file button
+1. If you are happy with the file as is, go ahead and create a Pull Request to let the community know that they should review and possibly approve the new document you've just created.
