@@ -1,0 +1,20 @@
+# Use Case Template
+
+## Revision History
+
+Date | Author | Description of Change
+---- | ------ | ---------------------
+Nov. 5, 2020 | R. Duerr | Initial version
+
+## Use Case: <Enter Use Case name here>
+<Enter a short name for the Use Case using an active verb phrase.
+e.g. Withdraw Cash, Register Customer, Rent Video, Calculate Sales Tax, etc.>
+
+## Id:  UC- <Enter value of Id here>
+<Enter a unique numeric identifier for the Use Case. e.g. UC-113>
+
+## Description:
+<Enter description here>
+
+<Briefly describe this use case. 
+e.g. Customer brings selected video(s) to the sales counter for the purpose of renting them. Store clerk processes the rental payment, records the rented video(s) against customer’s account, and hands over the video(s) to the customer.>
